@@ -20,6 +20,9 @@ module.exports = {
             block: 'content',
             content: [
                 {
+                    block: 'colored-block'
+                },
+                {
                     tag: 'p',
                     content: [
                         'This is a demo page to show blocks from bem-components library. ',
